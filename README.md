@@ -1,25 +1,26 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenue+chez+CarlosLeBg!;Développeur+Passionné;Créateur+Innovant&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenue+dans+l'univers+de+CarlosLeBg!;Magicien+du+Code;Dompteur+de+Bugs;Architecte+de+l'Impossible&font=Fira%20Code&center=true&width=380&height=50">
 </div>
 
 <p align="center">
   <a href="https://github.com/CarlosLeBg">
-    <img src="https://komarev.com/ghpvc/?username=CarlosLeBg&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=CarlosLeBg&color=blueviolet&style=flat)" />
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
 
-## 👨‍💻 Qui suis-je ?
+## 🦸‍♂️ Qui se cache derrière le masque ?
 
-Je suis **CarlosLeBg**, un développeur qui transforme le café en code depuis... eh bien, depuis que j'ai découvert que le café existait ! 🚀☕
+Je suis **CarlosLeBg**, un super-héros du code qui combat les bugs la nuit et rêve de refactoring le jour !
 
-- 🔭 Je travaille sur des projets qui vont révolutionner le monde (ou au moins ma vie quotidienne)
-- 🌱 J'apprends constamment, parce que dans le dev, si tu n'apprends pas, tu deviens vite un dinosaure 🦖
-- 👯 Je cherche à collaborer sur des projets aussi fous que mes idées
-- 💬 Demandez-moi n'importe quoi sur le code, les mèmes, ou comment survivre à une apocalypse zombie avec seulement un ordinateur
+- 🔭 Je travaille sur des projets tellement avancés que même mon ordinateur a du mal à suivre
+- 🌱 J'apprends à coder plus vite que mon ombre (mais mon ombre apprend vite aussi)
+- 👯 Je cherche des acolytes pour former la Ligue des Développeurs Extraordinaires
+- 💬 Demandez-moi comment j'ai réussi à faire fonctionner mon code du premier coup (spoiler : ça n'est jamais arrivé)
+- ⚡ Fun fact : Je peux déboguer du code rien qu'en le fixant intensément (ça marche 1 fois sur 1000, mais chut !)
 
-## 🛠️ Mon arsenal technologique
+## 🚀 Mon arsenal de super-pouvoirs
 
 <div align="center">
 
@@ -32,23 +33,23 @@ Je suis **CarlosLeBg**, un développeur qui transforme le café en code depuis..
 
 </div>
 
-## 📊 Mes stats GitHub (parce que les chiffres, c'est la classe)
+## 📊 Les preuves de mes exploits héroïques
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosLeBg&show_icons=true&theme=radical" alt="Statistiques GitHub de CarlosLeBg"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosLeBg&show_icons=true&theme=radical" alt="Les statistiques épiques de CarlosLeBg"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosLeBg&theme=dark" alt="Statistiques de contributions de CarlosLeBg"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosLeBg&theme=dark" alt="La saga des contributions de CarlosLeBg"/>
 </div>
 
-## 🏆 Mes trophées GitHub (oui, je collectionne)
+## 🏆 Mon mur de trophées (aka ma collection de bugs vaincus)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarlosLeBg&theme=darkhub&no-frame=true&margin-w=15" alt="Trophées GitHub de CarlosLeBg"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CarlosLeBg&theme=darkhub&no-frame=true&margin-w=15&column=4" alt="Les trophées légendaires de CarlosLeBg"/>
 </div>
 
-## 📫 Comment me contacter (si vous osez)
+## 📫 Comment invoquer CarlosLeBg
 
 <div align="center">
   
@@ -59,11 +60,15 @@ Je suis **CarlosLeBg**, un développeur qui transforme le café en code depuis..
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>J'adore rencontrer de nouvelles personnes</b>, alors n'hésitez pas à me dire bonjour! Je ne mords pas (sauf si vous êtes une pizza) 😉</em>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100">
+  <br>
+  <em><b>Rejoignez-moi dans ma quête pour sauver le monde, un commit à la fois !</b> Si vous voyez un signal Git dans le ciel, vous saurez que j'ai besoin de renfort pour une pull request épique ! 🦸‍♂️💻</em>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+  <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="100">
+  <br>
+  <em>Rappelez-vous : avec un grand pouvoir viennent de grandes responsabilités... et beaucoup de lignes de code !</em>
 </div>
