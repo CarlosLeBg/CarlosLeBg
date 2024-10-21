@@ -53,8 +53,7 @@ Je suis **CarlosLeBg**, un super-héros du code qui combat les bugs la nuit et r
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloslebg/)
-[![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CarlosLeBg)
+
 [![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosLeBg)
 
 </div>
